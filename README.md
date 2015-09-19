@@ -1,5 +1,11 @@
 # NCC夏合宿
 
+## 行き先
+- 土善旅館
+ - http://www.dozenryokan.com/
+- 289-0601 千葉県香取郡笹川い 東庄町笹川い６２４
+ - https://www.google.com/maps?ll=35.84496,140.661682&z=16&t=m&hl=en-US&gl=JP&mapclient=embed&cid=2984689891549776926
+
 ## 日程表
 
 ### 1日目 (9/22)
