@@ -87,11 +87,11 @@
 | t8m8 | サクセソン司会 |
 | matatsuna, suechan | ハンズオン司会 |
 | mactkg | LT司会 |
-| kizaki, kwzr | LTタイムキーパー |
+| tkd, kwzr | LTタイムキーパー |
 | tako, wada, shark | 事前にお菓子買ってくる |
 | Korokorotune | 持ち物 |
 | 3846masa, patchgi | 配信 |
-| tkd | 撮影リーダー |
+| kizaki | 撮影リーダー |
 | みんな | 撮影 |
 
 ## 発表
